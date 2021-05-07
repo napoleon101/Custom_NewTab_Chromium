@@ -1,6 +1,6 @@
 
 ## Basic info 
-It is based on this project from [vcerny01](https://github.com/vcerny01/custom_newtab) 
+It is based on [this](https://github.com/vcerny01/custom_newtab) project from [vcerny01](https://github.com/vcerny01) 
 
 You can customize it to your liking (change the pages, design,...)- it's yours 
 The background images are from the Unsplash API, you may only need to adjust: resolution, period, theme according to your preference
