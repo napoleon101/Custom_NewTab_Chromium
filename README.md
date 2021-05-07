@@ -15,7 +15,7 @@ Example:
 1. Go to `chrome://extensions/`
 2. Enable dev mode in the top right corner
 3. Choose `Load unpacked` in the top left corner
-4. Locate the unizipped directory and enable it 
+4. Locate the unzipped directory and enable it 
 5. Boom you have it now 
 
 ## Known issues
