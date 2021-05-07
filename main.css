@@ -1,0 +1,95 @@
+/* Original CSS By Dylan Araps, Forked by Vít Černý */
+html,
+body,
+ul {
+  margin: 0;
+  padding: 0;
+  font-size: 1em;
+}
+
+body {
+  background: #373b49;
+  height: 100%;
+  width: 100%;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+
+main {
+  backdrop-filter: blur(100px);
+  display: ;
+  border:2px solid black;
+  font-family: 'Roboto';
+  position: absolute;
+  top: 13%;
+  padding: 20px;
+  filter: contrast(40) saturate(0.1);
+}
+
+.bg-image {
+  width: 100vw;
+  height: 100vh;
+  /* Change thei background image*/
+  background-image:url("https://source.unsplash.com/1920x1080/weekly?abstract");
+  /* Change the blur effect for the background image */
+  filter: blur(4px);
+}
+
+ /* Change some colors */
+
+h1 {
+  color: #f1f1f1f1;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  width: 600px;
+  font-family: 'Proxima Nova';
+  font-size: 20pt;
+  margin-bottom: 10pt;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid #70838c;
+  opacity: .4;
+  width: 600px;
+}
+
+ul {
+  display: block;
+  margin: 0 auto;
+  width: 600px;
+}
+
+li {
+  color: #a3c2c2;
+  display: inline-block;
+  font-size: 1em;
+  line-height: 1.5;
+  list-style: none;
+  margin: .2em .3em;
+  padding: .45em .6em;
+  background-color:rgba(224, 224, 224, 0.205);
+  border-radius: 8px;
+}
+
+li:hover{
+  background-color: rgba(255, 52, 52, 0.205);
+  transition: 0.8s;
+  transition: ease-in-out;
+}
+
+a {
+  color: #d8e6f3;
+  text-decoration: none;
+  transition: .05s;
+  padding: 0.5em 1em 0.5em 1em;
+  margin: -0.5em -1em -0.5em -1em;
+}
+
