@@ -7,7 +7,7 @@ The background images are from the Unsplash API, you may only have to tweak the:
 
 Example:
 
-![image](https://i.imgur.com/OODMdps.jpeg)
+![image](https://i.imgur.com/6MiPDr1.jpeg)
 
 
 ## How to install
